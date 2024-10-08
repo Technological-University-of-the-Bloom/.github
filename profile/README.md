@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/Technological-University-of-the-Bloom/.github/refs/heads/main/logo.png?raw=true" alt="nest" height="150"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="docker" height="150"/> 
 </div>
+
 ---
 
 ### **Mexico | [Webpage](http://utr.edu.mx) | [Instagram](http://utr.edu.mx) | [LinkedIn](https://www.linkedin.com/school/utrbisoficial)**
